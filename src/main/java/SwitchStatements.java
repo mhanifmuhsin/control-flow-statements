@@ -1,4 +1,4 @@
-public class Main {
+public class SwitchStatements {
     public static void main(String[] args) {
         defaultSwitchStatement();
         challengeSwitchStatement(7);
